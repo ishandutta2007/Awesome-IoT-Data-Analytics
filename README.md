@@ -7,7 +7,7 @@
 <p align="left">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-IoT-Data-Analytics?style=flat-square&color=blue" alt="Last Commit" />
-  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IoT-Data-Analytics?style=flat-square&color=gold" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IoT-Data-Analytics?style=flat-square&color=gold" alt="GitHub_Stars" />
   <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-IoT-Data-Analytics?style=flat-square&color=green" alt="License" />
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -76,102 +76,102 @@ This repository tracks notable **commercial IoT data analytics platforms** and *
 
 ## 🔓 Open-Source GitHub Projects
 
-All open-source telemetry and stream processing options below are sorted descending by **GitHub star counts** ⭐.
+All open-source telemetry and stream processing options below are sorted descending by **GitHub Stars_Counts** ⭐.
 
 ### 🏢 IoT Platforms & Frameworks
 
-- **[ThingsBoard](https://github.com/thingsboard/thingsboard)** [![GitHub Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers) 👑  
+- **[ThingsBoard](https://github.com/thingsboard/thingsboard)** [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers) 👑  
   **The most popular open-source IoT platform** (Apache-2.0). Provides device management, data collection, complex event processing, and customizable analytics dashboards. Features a visual Rule Engine for data processing workflows, alarm triggers, and device state management. Supports MQTT, CoAP, HTTP, and LwM2M protocols with multi-tenancy.
 
-- **[Node-RED](https://github.com/node-red/node-red)** [![GitHub Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) 🔌  
+- **[Node-RED](https://github.com/node-red/node-red)** [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) 🔌  
   **Low-code programming for event-driven IoT applications** (JS Foundation / Apache-2.0). Provides a browser-based flow editor for wiring together hardware devices, APIs, and online services with real-time data visualizers.
 
-- **[Magistrala](https://github.com/absmach/magistrala)** [![GitHub Stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers) ⚡  
+- **[Magistrala](https://github.com/absmach/magistrala)** [![GitHub_Stars](https://img.shields.io/github/stars/absmach/magistrala?style=social&color=white)](https://github.com/absmach/magistrala/stargazers) ⚡  
   **Modern, Go-based, cloud-native IoT platform framework** (formerly Mainflux, Apache-2.0). Designed for high-throughput sensor telemetry ingestion, fine-grained RBAC policies, containerized microservices, and edge computing nodes.
 
 ---
 
 ### 📈 Business Intelligence & Visualization
 
-- **[Grafana](https://github.com/grafana/grafana)** [![GitHub Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) 📊  
+- **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) 📊  
   **The de facto standard for open-source observability dashboards** (AGPL-3.0). Connects to 100+ telemetry data sources (Prometheus, InfluxDB, TDengine, PostgreSQL, TimescaleDB). Features real-time alerting, multi-tenant dashboards, and high-density panel rendering.
 
-- **[Apache Superset](https://github.com/apache/superset)** [![GitHub Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) 📉  
+- **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) 📉  
   **Modern enterprise data exploration and visualization platform** (Apache-2.0). Features a fast SQL IDE, no-code chart builder, rich Jinja templating, and native integration with time-series databases for IoT analytics.
 
-- **[Metabase](https://github.com/metabase/metabase)** [![GitHub Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) ❓  
+- **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) ❓  
   **Easy self-service business intelligence and analytics** (AGPL-3.0). Allows non-technical teams to filter, query, and chart telemetry data via a no-code interface.
 
-- **[Redash](https://github.com/getredash/redash)** [![GitHub Stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers) 🔍  
+- **[Redash](https://github.com/getredash/redash)** [![GitHub_Stars](https://img.shields.io/github/stars/getredash/redash?style=social&color=white)](https://github.com/getredash/redash/stargazers) 🔍  
   **SQL-driven collaborative dashboard platform** (BSD-2-Clause). Connect and query high-cardinality data sources with shareable visualizations and automated alerts.
 
 ---
 
 ### ⚡ Stateful Stream Processing
 
-- **[Apache Spark](https://github.com/apache/spark)** [![GitHub Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) 💥  
+- **[Apache Spark](https://github.com/apache/spark)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) 💥  
   **Unified engine for large-scale data processing & Structured Streaming** (Apache-2.0). Processes massive IoT data streams with micro-batch or continuous processing, watermarking, and machine learning models.
 
-- **[Apache Kafka](https://github.com/apache/kafka)** [![GitHub Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) 🌊  
+- **[Apache Kafka](https://github.com/apache/kafka)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) 🌊  
   **Distributed event streaming platform** (Apache-2.0). Provides high-throughput pub/sub channels, durable log storage, and Kafka Streams API for real-time telemetry pipelines.
 
-- **[Apache Flink](https://github.com/apache/flink)** [![GitHub Stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers) 🏃  
+- **[Apache Flink](https://github.com/apache/flink)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers) 🏃  
   **Stateful stream processing framework** (Apache-2.0). Industry standard for low-latency complex event processing (CEP), out-of-order event time handling, and exactly-once state guarantees.
 
-- **[Apache Beam](https://github.com/apache/beam)** [![GitHub Stars](https://img.shields.io/github/stars/apache/beam?style=social&color=white)](https://github.com/apache/beam/stargazers) 🔀  
+- **[Apache Beam](https://github.com/apache/beam)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/beam?style=social&color=white)](https://github.com/apache/beam/stargazers) 🔀  
   **Unified batch and stream processing programming model** (Apache-2.0). Portable pipeline definition execution across Flink, Spark, and Google Cloud Dataflow.
 
-- **[ksqlDB](https://github.com/confluentinc/ksql)** [![GitHub Stars](https://img.shields.io/github/stars/confluentinc/ksql?style=social&color=white)](https://github.com/confluentinc/ksql/stargazers) 🔤  
+- **[ksqlDB](https://github.com/confluentinc/ksql)** [![GitHub_Stars](https://img.shields.io/github/stars/confluentinc/ksql?style=social&color=white)](https://github.com/confluentinc/ksql/stargazers) 🔤  
   **Streaming SQL engine for Apache Kafka** (Confluent Community License). Build real-time stream processing applications using familiar SQL syntax for filtering, joins, and windowed aggregates.
 
 ---
 
 ### ⏰ Time-Series & Analytical Databases
 
-- **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** [![GitHub Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) 🚀  
+- **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) 🚀  
   **Ultra-fast open-source columnar database management system** (Apache-2.0). Delivers sub-second SQL analytical queries over billions of IoT telemetry records with compression.
 
-- **[InfluxDB](https://github.com/influxdata/influxdb)** [![GitHub Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social&color=white)](https://github.com/influxdata/influxdb/stargazers) ⏱️  
+- **[InfluxDB](https://github.com/influxdata/influxdb)** [![GitHub_Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social&color=white)](https://github.com/influxdata/influxdb/stargazers) ⏱️  
   **Leading open-source time-series platform** (MIT/Apache-2.0). Engineered for metrics, events, and real-time analytics with optimized storage compression.
 
-- **[TDengine](https://github.com/taosdata/TDengine)** [![GitHub Stars](https://img.shields.io/github/stars/taosdata/TDengine?style=social&color=white)](https://github.com/taosdata/TDengine/stargazers) ⚙️  
+- **[TDengine](https://github.com/taosdata/TDengine)** [![GitHub_Stars](https://img.shields.io/github/stars/taosdata/TDengine?style=social&color=white)](https://github.com/taosdata/TDengine/stargazers) ⚙️  
   **Purpose-built time-series database for IoT and Industrial IoT** (AGPL-3.0). Employs a single-table-per-device architecture for extreme ingestion rates and downsampling query speed.
 
-- **[TimescaleDB](https://github.com/timescale/timescaledb)** [![GitHub Stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social&color=white)](https://github.com/timescale/timescaledb/stargazers) 📅  
+- **[TimescaleDB](https://github.com/timescale/timescaledb)** [![GitHub_Stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social&color=white)](https://github.com/timescale/timescaledb/stargazers) 📅  
   **Relational time-series database built on PostgreSQL** (Apache-2.0/Timescale License). Offers full SQL support, automatic hypertable partitioning, continuous aggregates, and columnar compression.
 
-- **[QuestDB](https://github.com/questdb/questdb)** [![GitHub Stars](https://img.shields.io/github/stars/questdb/questdb?style=social&color=white)](https://github.com/questdb/questdb/stargazers) ⚡  
+- **[QuestDB](https://github.com/questdb/questdb)** [![GitHub_Stars](https://img.shields.io/github/stars/questdb/questdb?style=social&color=white)](https://github.com/questdb/questdb/stargazers) ⚡  
   **High-performance SQL time-series database** (Apache-2.0). SIMD-optimized query execution and fast InfluxDB Line Protocol ingestion for real-time sensor streams.
 
-- **[VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)** [![GitHub Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=social&color=white)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers) 📉  
+- **[VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics)** [![GitHub_Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=social&color=white)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers) 📉  
   **Fast, cost-effective, and scalable time-series database** (Apache-2.0). Prometheus-compatible metrics storage with superior data compression rates.
 
-- **[Apache Druid](https://github.com/apache/druid)** [![GitHub Stars](https://img.shields.io/github/stars/apache/druid?style=social&color=white)](https://github.com/apache/druid/stargazers) 💧  
+- **[Apache Druid](https://github.com/apache/druid)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/druid?style=social&color=white)](https://github.com/apache/druid/stargazers) 💧  
   **Real-time analytical database** (Apache-2.0). Designed for sub-second OLAP queries on event-driven telemetry and streaming data sets.
 
-- **[Apache Pinot](https://github.com/apache/pinot)** [![GitHub Stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers) 🍷  
+- **[Apache Pinot](https://github.com/apache/pinot)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/pinot?style=social&color=white)](https://github.com/apache/pinot/stargazers) 🍷  
   **Real-time distributed OLAP datastore** (Apache-2.0). Used for low-latency user-facing analytics and real-time device telemetry dashboards.
 
-- **[Apache IoTDB](https://github.com/apache/iotdb)** [![GitHub Stars](https://img.shields.io/github/stars/apache/iotdb?style=social&color=white)](https://github.com/apache/iotdb/stargazers) 🏭  
+- **[Apache IoTDB](https://github.com/apache/iotdb)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/iotdb?style=social&color=white)](https://github.com/apache/iotdb/stargazers) 🏭  
   **High-performance IoT-native time-series database** (Apache-2.0). Optimized for tree-structured device management, efficient file formats (TsFile), and edge-cloud sync.
 
 ---
 
 ### 🛠️ Data Pipeline & Ingestion Tools
 
-- **[Vector](https://github.com/vectordotdev/vector)** [![GitHub Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social&color=white)](https://github.com/vectordotdev/vector/stargazers) 🛡️  
+- **[Vector](https://github.com/vectordotdev/vector)** [![GitHub_Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social&color=white)](https://github.com/vectordotdev/vector/stargazers) 🛡️  
   **High-performance observability data pipeline** (MPL-2.0). Collects, transforms, and routes logs and metrics with minimal memory footprint.
 
-- **[Fluentd](https://github.com/fluent/fluentd)** [![GitHub Stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers) 🪵  
+- **[Fluentd](https://github.com/fluent/fluentd)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluentd?style=social&color=white)](https://github.com/fluent/fluentd/stargazers) 🪵  
   **Data collector for unified logging layer** (Apache-2.0). Pluggable architecture to aggregate device logs and stream into backend time-series databases.
 
-- **[Fluent Bit](https://github.com/fluent/fluent-bit)** [![GitHub Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers) 🪶  
+- **[Fluent Bit](https://github.com/fluent/fluent-bit)** [![GitHub_Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers) 🪶  
   **Super lightweight log and metrics processor for Linux & IoT Edge** (Apache-2.0). Ideal for constrained edge devices and embedded gateways.
 
-- **[Apache NiFi](https://github.com/apache/nifi)** [![GitHub Stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers) 🌊  
+- **[Apache NiFi](https://github.com/apache/nifi)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers) 🌊  
   **Automated data flow and telemetry routing system** (Apache-2.0). Features visual drag-and-drop flow design, data provenance tracing, and edge node distribution (MiNiFi).
 
-- **[Benthos (Redpanda Connect)](https://github.com/redpanda-data/connect)** [![GitHub Stars](https://img.shields.io/github/stars/redpanda-data/connect?style=social&color=white)](https://github.com/redpanda-data/connect/stargazers) 🐙  
+- **[Benthos (Redpanda Connect)](https://github.com/redpanda-data/connect)** [![GitHub_Stars](https://img.shields.io/github/stars/redpanda-data/connect?style=social&color=white)](https://github.com/redpanda-data/connect/stargazers) 🐙  
   **Resilient stream processor without code** (Apache-2.0). Connects multiple inputs, transforms telemetry payloads using Bloblang, and outputs to analytical backends.
 
 ---
